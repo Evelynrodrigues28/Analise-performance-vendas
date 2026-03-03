@@ -6,11 +6,11 @@ Projeto de análise de dados com foco em performance de vendas, utilizando Pytho
 
 ## Sumário
 1. [Objetivo](#Objetivo)
-2. [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Recomendação Final](#Recomendação-Final)
 
 ---
-## 🧠 Objetivo
+## Objetivo
 
 Este projeto tem como objetivo analisar o desempenho de distribuidores e produtos em uma indústria de bens de consumo, identificando:
 
@@ -20,7 +20,7 @@ Este projeto tem como objetivo analisar o desempenho de distribuidores e produto
 - Ranking de produtos por quantidade vendida
 
 ---
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
