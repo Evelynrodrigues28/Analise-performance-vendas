@@ -5,8 +5,8 @@ Projeto de análise de dados com foco em performance de vendas, utilizando Pytho
 ---
 
 ## Sumário
-1. [Objetivo](#objetivo)
-2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
+1. [Objetivo](#Objetivo)
+2. [Bibliotecas Utilizadas](#Tecnologias-Utilizadas)
 3. [Recomendação Final](#Recomendação-Final)
 
 ---
